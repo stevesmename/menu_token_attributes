@@ -1,0 +1,7 @@
+; $id$
+name = Menu Token Attributes
+description = Provides tokens in menu item attributes.
+dependencies[] = menu
+dependencies[] = token
+dependencies[] = menu_attributes
+core = 7.x
